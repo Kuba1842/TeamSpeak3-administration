@@ -1,12 +1,11 @@
 # TeamSpeak3-administration
 Free administration for control your TeamSpeak 3 server.<br />
-Click <a href="/">here</a> for view a demo.
 
 ## Version
 TeamSpeak3-administration has now version: <b>v0.5.4 BETA (30.7.2018)</b>
 
 ## Install
-1. Download administration from <a href="https://github.com/KyBLKuBA/TeamSpeak3-administration/releases">releases</a>. (recommended)
+1. Download administration from <a href="https://github.com/Kuba1842/TeamSpeak3-administration/releases">releases</a>. (recommended)
 2. Upload administration to your server.
 3. Open website with link to your administration and complete administratio setup (enter server port, queryadmin password, etc..)
 4. Connect your server. (if you insert a bad details, you can resetup administration with button in page)
@@ -24,13 +23,13 @@ TeamSpeak3-administration has now version: <b>v0.5.4 BETA (30.7.2018)</b>
 - You can use a TeamSpeak 3 Server Query console from administration
 
 ## Bugs
-If you find a bug in the TeamSpeak3-administration, write <a href="https://github.com/KyBLKuBA/teamspeak3-administration/issues">here</a>
+If you find a bug in the TeamSpeak3-administration, write <a href="https://github.com/Kuba1842/teamspeak3-administration/issues">here</a>
 
 ## Developer
-TeamSpeak3-administration is developed by Kuba KobÃ­k ("KyBLKuBA")
+TeamSpeak3-administration is developed by Jakub Kobík ("Kuba1842")
 
 ## Copyright
-Copyright 2018 Kuba KobÃ­k. Code released under the Apache 2.0 license.
+Copyright 2018-2021 Jakub Kobík. Code released under the Apache 2.0 license.
 
 
 ![alt text](https://ctrlv.cz/shots/2018/07/30/uF5S.png)
