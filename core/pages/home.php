@@ -4,9 +4,9 @@ $(document).ready(function() {
 });
 </script>
 <?php
-/* Copyright (C) Kuba KobÃ­k. All rights reserved 
+/* Copyright (C) 2018-2021 Kobík Jakub ("Kuba1842"). All rights reserved 
  * File: home.php
- * Written by Kuba KobÃ­k 2018
+ * Written by Kobík Jakub ("Kuba1842") 2018
 */
 
 if(!defined("APP_IN")) die();

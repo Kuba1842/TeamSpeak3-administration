@@ -1,7 +1,7 @@
 <?php
-/* Copyright (C) Kuba KobÃ­k. All rights reserved 
+/* Copyright 2018-2021 Kobík Jakub ("Kuba1842"). All rights reserved 
  * File: core.inc.php
- * Written by Kuba KobÃ­k 2018
+ * Written by Kobík Jakub ("Kuba1842") 2018
 */
 
 ini_set('display_errors', 1);

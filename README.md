@@ -26,10 +26,10 @@ TeamSpeak3-administration has now version: <b>v0.5.4 BETA (30.7.2018)</b>
 If you find a bug in the TeamSpeak3-administration, write <a href="https://github.com/Kuba1842/teamspeak3-administration/issues">here</a>
 
 ## Developer
-TeamSpeak3-administration is developed by Jakub Kobík ("Kuba1842")
+TeamSpeak3-administration is developed by Kobík Jakub ("Kuba1842")
 
 ## Copyright
-Copyright 2018-2021 Jakub Kobík. Code released under the Apache 2.0 license.
+Copyright 2018-2021 Kobík Jakub ("Kuba1842"). Code released under the Apache 2.0 license.
 
 
 ![alt text](https://ctrlv.cz/shots/2018/07/30/uF5S.png)
